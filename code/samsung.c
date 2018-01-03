@@ -42,7 +42,7 @@ void turn_On_Off()
 void increase_volume(){
 
 	int i,j;
-	char *stream = ""1111000001110000011100000000111110";
+	char *stream = "1111000001110000011100000000111110";
 
 	pwm_export();
 	pwm_polarity();
